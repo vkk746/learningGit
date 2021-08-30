@@ -6,4 +6,3 @@ hello my favorite colour is redg
 again change in the file
 i changed hello.txt file, now let us see the change by writing 
 git status
-modified->git add->commit
